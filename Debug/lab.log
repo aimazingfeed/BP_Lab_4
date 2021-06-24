@@ -1,0 +1,5 @@
+﻿  lab4.cpp
+L:\Projects\lab\lab4.cpp(142,17): warning C4244: return: преобразование "clock_t" в "float", возможна потеря данных
+L:\Projects\lab\lab4.cpp(150,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+L:\Projects\lab\lab4.cpp(151,19): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+  lab.vcxproj -> L:\Projects\lab\Debug\lab.exe
